@@ -2,6 +2,7 @@
 
 # Check the "Ambient Zone" Temperature of a HP using ipmi
 # Nuno.Dias@gmail.com 2021/02/22
+# Version 0.1
 
 function usage {
 
